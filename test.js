@@ -1,9 +1,3 @@
-/**
- * DO NOT REMOVE THIS COMMENT
- *
- * @Target anagram-checker.js
- */
-
 describe('Words that are anagrams should return true', ()=>{
 	expect(checkAnagram('listen','silent')).toBeTruthy();
 });

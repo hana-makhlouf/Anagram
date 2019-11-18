@@ -1,0 +1,9 @@
+{
+    "files":[
+        "anagram-checker.js"
+    ],
+    "tests":[
+        "test.js"
+    ],
+    "setup":"setup.js"
+}
